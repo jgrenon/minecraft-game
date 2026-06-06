@@ -1,2 +1,33 @@
+# IDE
 .roo
-node_modules
+.idea/
+*.iml
+.vscode/
+
+# Dependencies
+node_modules/
+
+# Java / Gradle
+build/
+.gradle/
+*.class
+*.jar
+*.war
+*.log
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Minecraft servers (don't commit server jars/runs)
+run/
+servers/*/run/
+*.minecraft/
+cache/
