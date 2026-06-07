@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/trident",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "minecraft:item/golden_blade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1003
+      },
+      "model": "minecraft:item/riptent"
+    }
+  ]
+}

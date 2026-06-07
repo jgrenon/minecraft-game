@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/crossbow",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "minecraft:item/thunder_crossbow"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/mace",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1004
+      },
+      "model": "minecraft:item/la_falce"
+    }
+  ]
+}
